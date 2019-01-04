@@ -19,6 +19,7 @@
         <h3><a class="Leave" href= "#" > Leave a comment</a></h3>
     </div>
 
+    <section> </section> 
 
 <?php
     include "footer.php"
