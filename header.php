@@ -11,6 +11,7 @@
   </head>
 
   <body>
+  <div class="grid-container">
     <img src="assets/images/logo_minimo.png"><img/>
     <ul class= "#">
         <li class="li"><a href= "#" > Lifestyle</a></li>
@@ -18,5 +19,5 @@
         <li class="li"><a href= "#" > Musiques</a></li>
         <li class="li"><a href= "#" > Visites</a></li>
     </ul> 
-  <img src= "assets/images/01_image_principale.png"><img/>
+  <img class="main_image" src="assets/images/01_image_principale.png"><img/>
 <?php?>
