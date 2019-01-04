@@ -2,9 +2,8 @@
     include "header.php"
 ?>
 
-
-<h5 class="grid-container"> Photos</h5>
 <div class="grid-container">
+<h5> Photos</h5>
 <h3> The perfect weekend getaway </h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 <br>Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Ullamcorper sit amet risus nullam eget. 
