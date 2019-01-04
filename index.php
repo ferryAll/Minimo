@@ -1,9 +1,10 @@
 <?php
     include "header.php"
 ?>
-<link rel="stylesheet" href="assets/css/css.css">
 
-<h5> Photos</h5>
+
+<h5 class="grid-container"> Photos</h5>
+<div class="grid-container">
 <h3> The perfect weekend getaway </h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 <br>Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Ullamcorper sit amet risus nullam eget. 
@@ -13,6 +14,7 @@
 <br>Tortor condimentum lacinia quis vel eros donec ac odio tempor. Facilisis magna etiam tempor orci eu lobortis. 
 <br>Viverra vitae congue eu consequat ac felis donec. Faucibus purus in massa tempor nec. 
 <br>Viverra ipsum nunc aliquet bibendum.</p>
+</div>
 <?php
     include "footer.php"
 ?>
