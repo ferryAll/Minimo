@@ -1,4 +1,16 @@
-h1 {
+h3 {
     font-size: 2em;
     margin: 0.67em 0;
+    color: #626262;
+    font-family: "Playfair Display";
+  }
+  h5 {
+      color: #b4ad9e;
+      margin: 0.67em 0;
+      font-family: "Playfair Display";
+  }
+  p {
+    margin: 0.67em 0;
+    font-family: "Ubuntu";
+    color: #626262;
   }
