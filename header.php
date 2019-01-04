@@ -11,11 +11,12 @@
   </head>
 
   <body>
+    <img src="assets/ima ges/logo_minimo.png"><img/>
     <ul class= "#">
         <li class="li"><a href= "#" > Lifestyle</a></li>
         <li class="li"><a href= "#" > Photos</a></li>
         <li class="li"><a href= "#" > Musiques</a></li>
         <li class="li"><a href= "#" > Visites</a></li>
     </ul> 
-  <img src= "assets/images/01_image_principale.png"
+  <img class="img1" src= "assets/images/01_image_principale.png"><img/>
 <?php?>
