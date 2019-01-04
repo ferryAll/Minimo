@@ -18,5 +18,5 @@
         <li class="li"><a href= "#" > Musiques</a></li>
         <li class="li"><a href= "#" > Visites</a></li>
     </ul> 
-  <img class= "img1" src= "assets/images/01_image_principale.png"><img/>
+  <img src= "assets/images/01_image_principale.png"><img/>
 <?php?>
