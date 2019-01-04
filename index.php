@@ -16,7 +16,7 @@
             <br>Viverra vitae congue eu consequat ac felis donec. Faucibus purus in massa tempor nec. 
             <br>Viverra ipsum nunc aliquet bibendum.</p>
         </div>
-        <h3><a href= "#" > Leave a comment</a></h3>
+        <h3><a class="Leave" href= "#" > Leave a comment</a></h3>
     </div>
 
 
