@@ -21,7 +21,7 @@
 
     <section>
     <p>Sign up for our newsletter!</p>
-    <div class="column align-self-middle">
+    <input type="text" id="middle-label" placeholder="Enter a valid email address">
     Enter a valid email address
     </div>
 
