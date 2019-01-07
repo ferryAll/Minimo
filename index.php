@@ -21,8 +21,9 @@
 
     <section>
         <p>Sign up for our newsletter!</p> 
-        <div class="input-group-field" class="button">
+        <div class="button">
          <input type="text" id="middle-label" placeholder="Enter a valid email address">
+         <button class="input-group-field">
          </div>
     </section> 
 
