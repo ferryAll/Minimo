@@ -19,7 +19,13 @@
         <h3><a class="Leave" href= "#" > Leave a comment</a></h3>
     </div>
 
-    <section> </section> 
+    <section>
+    <p>Sign up for our newsletter!</p>
+    <div class="column align-self-middle">
+    Enter a valid email address
+    </div>
+
+     </section> 
 
 <?php
     include "footer.php"
