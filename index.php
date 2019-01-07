@@ -20,12 +20,11 @@
     </div>
 
     <section>
-    <p>Sign up for our newsletter!</p>
-    <input type="text" id="middle-label" placeholder="Enter a valid email address">
-    Enter a valid email address
-    </div>
-
-     </section> 
+        <p>Sign up for our newsletter!</p> 
+        <div class="input-group-field" class="button">
+         <input type="text" id="middle-label" placeholder="Enter a valid email address">
+         </div>
+    </section> 
 
 <?php
     include "footer.php"
