@@ -95,7 +95,7 @@
         </div>
     </div>
     
-    <button> Load More </button>
+    <input type= "button" value= "Load More"/>  
     
     <?php
     include "footer.php"

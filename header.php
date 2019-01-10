@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="assets/css/app.css">
   </head>
 
-  <body>   
+  <body> 
+    
   <div class="grid-container">
   <img src="assets/images/logo_minimo.png"><img/>
   <ul class="vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown">
