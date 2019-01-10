@@ -66,8 +66,10 @@
     <div class="grid-x">
         <div class="newsletter">
             <p>Sign up for our newsletter!</p> 
-            <input type="text" placeholder="Enter a valid email address"/>  
-            <input type= "button" value= "Submit"/>  
+            <form>
+                <input type="text" placeholder="Enter a valid email address"/>  
+                <input type= "button" value= "Submit"/>
+            </form>
         </div>
     </div>
 

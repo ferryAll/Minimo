@@ -23,6 +23,11 @@
         <br>Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Ullamcorper sit amet risus nullam eget. 
         <br>
         <h5> TOP POSTS </h5>
+        <?php
+        $mysqli = new mysqli('localhost','root','','minimo');
+        $sql= "SELECT id FROM posts WHERE id = 1;";
+        $result = $mysqli->query($sql);
+        ?>
     </div>
 </div>
 <?php
