@@ -1,5 +1,5 @@
 <?php
-    include "header.php"
+    require "header.php"
 ?>
  <div class="grid-x">   
         <div class="cell">
@@ -98,5 +98,5 @@
     <input type= "button" value= "Load More"/>  
     
     <?php
-    include "footer.php"
+    require "footer.php"
     ?>

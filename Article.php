@@ -1,5 +1,5 @@
 <?php
-    include "header.php"
+    require "header.php"
 ?>
 
 <div class="grid-x">   
@@ -26,5 +26,5 @@
     </div>
 </div>
 <?php
-    include "footer.php"
+    require "footer.php"
     ?>
