@@ -69,6 +69,8 @@
             <form>
                 <input type="text" placeholder="Enter a valid email address"/>  
                 <input type= "button" value= "Submit"/>
+                <?php
+                $sql= 'INSERT INTO newsletter VALUES ("")';
             </form>
         </div>
     </div>
