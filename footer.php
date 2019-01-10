@@ -1,5 +1,5 @@
 <?php?>
-    <ul class= "#">
+    <ul class="vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown">
         <li class="li"><a href= "#" > Mentions Légales</a></li>
         <li class="li"><a href= "#" > Contact</a></li>
  
