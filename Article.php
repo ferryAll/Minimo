@@ -24,7 +24,7 @@
         <br>
         <h5> TOP POSTS </h5>
         <?php
-        $mysqli = new mysqli('localhost','root','','minimo');
+        $mysqli = new mysqli('localhost','root','');
         $sql= "SELECT id FROM posts WHERE id = 1;";
         $result = $mysqli->query($sql);
         ?>

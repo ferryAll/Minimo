@@ -67,10 +67,8 @@
         <div class="newsletter">
             <p>Sign up for our newsletter!</p> 
             <form>
-                <input type="text" placeholder="Enter a valid email address"/>  
+                <input type="text" name="newsletter_email" placeholder="Enter a valid email address"/>
                 <input type= "button" value= "Submit"/>
-                <?php
-                $sql= 'INSERT INTO newsletter VALUES ("")';
             </form>
         </div>
     </div>
