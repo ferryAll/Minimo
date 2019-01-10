@@ -15,7 +15,7 @@
   <img src="assets/images/logo_minimo.png"><img/>
   <ul class="vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown">
         <li class="li"><a href= "Article.php" > Lifestyle</a></li>
-        <li class="li"><a href= "#" > Photos</a></li>
+        <li class="li"><a href= "#" > Photo</a></li>
         <li class="li"><a href= "#" > Musiques</a></li>
         <li class="li"><a href= "#" > Visites</a></li>
     </ul> 
