@@ -16,9 +16,9 @@
         </div>
         <h3><a class="Leave" href= "#" > Leave a comment</a></h3>
     </div>
-    
+
     <div class="grid-x">
-        <div class="cell small-6">
+        <div class="cell small-4">
             <img class="main_image" src="assets/images/02_festival.png"><img/>
             <h5> Livestyle</h5>
             <h3> More than just a music festival </h3>
@@ -27,7 +27,9 @@
             <br> Ipsum a arcu cursus vitae congue mauris rhoncus.
             </p>
         </div>
-        <div class="cell small-6">
+        <div class="cell small-2">
+        </div>
+        <div class="cell small-4">
             <img class="main_image" src="assets/images/03_caffee.png"><img/>
             <h5> Livestyle</h5>
             <h3> Life tastes better with coffee </h3>
@@ -39,7 +41,7 @@
     </div>
 
     <div class="grid-x">
-        <div class="cell small-6">
+        <div class="cell small-4">
             <img class="main_image" src="assets/images/04_pont.png"><img/>
             <h5> Photodiary </h5>
             <h3> American dream </h3>
@@ -48,8 +50,9 @@
             <br> Ipsum a arcu cursus vitae congue mauris rhoncus.
             </p>
         </div>
-
-        <div class="cell small-6">
+        <div class="cell small-2">
+        </div>
+        <div class="cell small-4">
             <img class="main_image" src="assets/images/05_montagnes.png"><img/>
             <h5> Photodiary</h5>
             <h3> A day exploring the Alps </h3>
@@ -70,7 +73,7 @@
 
 
     <div class="grid-x">
-        <div class="cell small-6">
+        <div class="cell small-4">
             <img class="main_image" src="assets/images/06_girl.png"><img/>
             <h5> Livestyle </h5>
             <h3> Top 10 song for running </h3>
@@ -79,7 +82,9 @@
             <br> Ipsum a arcu cursus vitae congue mauris rhoncus.
             </p>
         </div>
-        <div class="cell small-6">
+        <div class="cell small-2">
+        </div>
+        <div class="cell small-4">
             <img class="main_image" src="assets/images/07_route_glace.png"><img/>
             <h5> Livestyle</h5>
             <h3> Cold winter days </h3>

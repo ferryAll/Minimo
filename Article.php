@@ -15,9 +15,12 @@
         <br>Viverra vitae congue eu consequat ac felis donec. Faucibus purus in massa tempor nec. 
         <br>Viverra ipsum nunc aliquet bibendum.</p>
     </div>
-    <div class="cell small-1">
+    <div class="cell small-2">
         <h3>About me</h3>
-        <p>blablablablablablablablablablablabla</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        <br>Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Ullamcorper sit amet risus nullam eget. 
+        <br>
+        <h5> TOP POSTS </h5>
     </div>
 </div>
 <?php
