@@ -12,7 +12,7 @@
 
   <body> 
     
-  <div class="flex-child-shrink large-flex-child-auto">
+  <div class="grid-container">
   <img src="assets/images/logo_minimo.png"><img/>
   <ul class="dropdown menu" data-dropdown-menu>
   <li><a href="Accueil.php">Accueil</a></li>
