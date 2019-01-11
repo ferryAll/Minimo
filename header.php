@@ -24,4 +24,18 @@
   
 
 
-<?php?>
+<?php
+ $mysqli = new mysqli('localhost','root','','minimo');
+ 
+if ($mysqli->connect_errno) {
+  // la connexion a échoué
+  echo "Connexion échouée... Un problème de configuration?";
+
+  // Ne faites jamais ça en production, mais pour l'exemple ici on va afficher les erreurs
+  echo "Error: Connexion échouée, l'erreur est: : \n";
+  echo "Errno: " . $mysqli->connect_errno . "\n";
+  echo "Error: " . $mysqli->connect_error . "\n";
+  
+  exit;
+}
+?>

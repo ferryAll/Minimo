@@ -24,9 +24,20 @@
         <br>
         <h5> TOP POSTS </h5>
         <?php
-        $mysqli = new mysqli('localhost','root','');
-        $sql= "SELECT id FROM posts WHERE id = 1;";
-        $result = $mysqli->query($sql);
+            $sql = "SELECT article FROM posts ";
+            if (!$result = $mysqli->query($sql)) {
+                echo "Pas de résultats pour cette requête..";
+                exit;
+            }
+
+            // Imprime 3 personnes dans une liste HTML
+            echo "<ul>\n";
+            while ($sql = $result->fetch_assoc()) { // while = tant que fetch_assoc renvoie des résultats, continue d’afficher
+                echo "<li>\n";
+                echo $sql['post_name']." ".$sql['post_title'];
+                echo "</li>\n";
+            }
+            echo "</ul>\n";
         ?>
     </div>
 </div>
