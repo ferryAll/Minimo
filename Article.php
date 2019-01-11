@@ -29,7 +29,7 @@
                 echo "Pas de résultats pour cette requête..";
                 exit;
             }
-                
+
             // Imprime 3 personnes dans une liste HTML
             echo "<ul>\n";
             while ($sql = $result->fetch_assoc()) { // while = tant que fetch_assoc renvoie des résultats, continue d’afficher
@@ -39,6 +39,9 @@
             }
             echo "</ul>\n";
         ?>
+            <div class="column column-block">
+             <img src="https://placehold.it/250x250" class="thumbnail" alt="">
+            </div>
     </div>
 </div>
 <?php
