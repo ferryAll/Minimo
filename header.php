@@ -27,7 +27,7 @@
     </ul>
   </li>
   <li>
-    <a href="#"> Membre? </a>
+    <a href="#"> Déjà Membre? </a>
       <ul class="menu">
         <li><a href="#">Connexion</a></li>
         <li><a href="#">Inscription</a></li>
