@@ -24,7 +24,7 @@
         <br>
         <h5> TOP POSTS </h5>
         <?php
-            $sql = "SELECT article FROM posts ";
+            $sql = "SELECT * FROM posts WHERE post_type= 'article'";
             if (!$result = $mysqli->query($sql)) {
                 echo "Pas de résultats pour cette requête..";
                 exit;
@@ -34,7 +34,7 @@
             echo "<ul>\n";
             while ($sql = $result->fetch_assoc()) { // while = tant que fetch_assoc renvoie des résultats, continue d’afficher
                 echo "<li>\n";
-                echo $sql['post_name']." ".$sql['post_title'];
+                echo $sql['post_title']." ";
                 echo "</li>\n";
             }
             echo "</ul>\n";
