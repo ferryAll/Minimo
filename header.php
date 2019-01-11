@@ -17,7 +17,7 @@
   <ul class="dropdown menu" data-dropdown-menu>
   <li><a href="Accueil.php">Accueil</a></li>
   <li>
-    <a href="Article.php">Catégories</a>
+    <a href="Article.php">Articles</a>
     <ul class="menu">
       <li><a href="#">Lifestyle</a></li>
       <li><a href="#">Photos</a></li>
@@ -26,8 +26,6 @@
       <!-- ... -->
     </ul>
   </li>
-
-</ul>
     
   <img class="main_image" src="assets/images/01_image_principale.png"><img/>
   
