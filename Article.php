@@ -29,12 +29,13 @@
                 echo "Pas de résultats pour cette requête..";
                 exit;
             }
-
+                
             // Imprime 3 personnes dans une liste HTML
             echo "<ul>\n";
             while ($sql = $result->fetch_assoc()) { // while = tant que fetch_assoc renvoie des résultats, continue d’afficher
                 echo "<li>\n";
-                echo $sql['post_title']." ";
+                echo $sql['post_name']."\n";
+                echo $sql['post_date']." ".$sql['post_title'];
                 echo "</li>\n";
             }
             echo "</ul>\n";
