@@ -14,12 +14,21 @@
     
   <div class="grid-container">
   <img src="assets/images/logo_minimo.png"><img/>
-  <ul class="vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown">
-        <li class="li"><a href= "Article.php" > Lifestyle</a></li>
-        <li class="li"><a href= "#" > Photo</a></li>
-        <li class="li"><a href= "#" > Musiques</a></li>
-        <li class="li"><a href= "#" > Visites</a></li>
-    </ul> 
+  <ul class="dropdown menu" data-dropdown-menu>
+  <li><a href="Accueil.php">Accueil</a></li>
+  <li>
+    <a href="#">Articles</a>
+    <ul class="menu">
+      <li><a href="Article.php">Lifestyle</a></li>
+      <li><a href="#">Photos</a></li>
+      <li><a href="#">Musique</a></li>
+      <li><a href="#">Visites</a></li>
+      <!-- ... -->
+    </ul>
+  </li>
+
+</ul>
+    
   <img class="main_image" src="assets/images/01_image_principale.png"><img/>
   
 
