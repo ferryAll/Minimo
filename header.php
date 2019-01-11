@@ -17,7 +17,7 @@
   <ul class="dropdown menu" data-dropdown-menu>
   <li><a href="Accueil.php">Accueil</a></li>
   <li>
-    <a href="#">Articles</a>
+    <a href="#">Catégories</a>
     <ul class="menu">
       <li><a href="Article.php">Lifestyle</a></li>
       <li><a href="#">Photos</a></li>
