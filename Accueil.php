@@ -63,15 +63,12 @@
         </div>
     </div>
 
-    <div class="grid-x">
         <div class="newsletter">
-            <p>Sign up for our newsletter!</p> 
-            <form>
+            <p>Sign up for our newsletter!</p>
                 <input type="text" name="newsletter_email" placeholder="Enter a valid email address"/>
                 <input type= "button" value= "Submit"/>
-            </form>
         </div>
-    </div>
+    
 
 
     <div class="grid-x">

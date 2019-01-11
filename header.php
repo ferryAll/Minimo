@@ -26,6 +26,14 @@
       <!-- ... -->
     </ul>
   </li>
+  <li>
+    <a href="#"> Membre? </a>
+      <ul class="menu">
+        <li><a href="#">Connexion</a></li>
+        <li><a href="#">Inscription</a></li>
+      </ul>
+  </li>
+
     
   <img class="main_image" src="assets/images/01_image_principale.png"><img/>
   
