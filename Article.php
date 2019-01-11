@@ -2,7 +2,8 @@
     require "header.php"
 ?>
 
-<div class="grid-x">   
+<div class="grid-x">
+<div class="cell small-1"></div>   
     <div class="cell small-7">
         <h5> Photos</h5>
         <h3> The perfect weekend getaway </h3>

@@ -18,6 +18,7 @@
     </div>
 
     <div class="grid-x">
+    <div class="cell small-1"></div>
         <div class="cell small-5">
             <img class="main_image" src="assets/images/02_festival.png"><img/>
             <h5> Livestyle</h5>
@@ -27,8 +28,7 @@
             <br> Ipsum a arcu cursus vitae congue mauris rhoncus.
             </p>
         </div>
-        <div class="cell small-1">
-        </div>
+        <div class="cell small-1"></div>
         <div class="cell small-5">
             <img class="main_image" src="assets/images/03_caffee.png"><img/>
             <h5> Livestyle</h5>
@@ -38,9 +38,11 @@
             <br> Ipsum a arcu cursus vitae congue mauris rhoncus.
             </p>
         </div>
+        <div class="cell small-1"></div>
     </div>
 
     <div class="grid-x">
+    <div class="cell small-1"></div>
         <div class="cell small-5">
             <img class="main_image" src="assets/images/04_pont.png"><img/>
             <h5> Photodiary </h5>
@@ -61,6 +63,7 @@
             <br> Ipsum a arcu cursus vitae congue mauris rhoncus.
             </p>
         </div>
+        <div class="cell small-1"></div>
     </div>
         <div class="c">
             <div >
@@ -72,6 +75,7 @@
 
 
     <div class="grid-x">
+    <div class="cell small-1"></div>
         <div class="cell small-5">
             <img class="main_image" src="assets/images/06_girl.png"><img/>
             <h5> Livestyle </h5>
@@ -92,6 +96,7 @@
             <br> Ipsum a arcu cursus vitae congue mauris rhoncus.
             </p>
         </div>
+        <div class="cell small-1"></div>
     </div>
     
     <input type= "button" value= "Load More"/>  
