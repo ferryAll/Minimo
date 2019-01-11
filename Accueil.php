@@ -64,7 +64,7 @@
     </div>
         <div class="c">
             <div >
-                <p class="text-center">Sign up for our newsletter!</p>
+                <p class=text-center>Sign up for our newsletter!</p>
                     <input class=text-center type="text" name="newsletter_email" placeholder="Enter a valid email address"/>
                     <input type= "button" value= "Submit"/>
             </div>
